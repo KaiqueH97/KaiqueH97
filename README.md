@@ -4,7 +4,7 @@ Sou Kaique Santos, tenho 27 anos e atualmente curso Análise e Desenvolvimento d
 
 ---
 
-### 💻 Minhas Habilidades
+### 💻 O que eu estou aprendendo
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
