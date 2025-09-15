@@ -22,9 +22,9 @@ Sou Kaique Santos, tenho 27 anos e atualmente curso Análise e Desenvolvimento d
 
 ### 📈 Estatísticas do GitHub
 
-[![Estatísticas do seu GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueH97&show_icons=true&theme=dark)](https://github.com//KaiqueH97/github-readme-stats)
+[![Estatísticas do seu GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueH97&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/KaiqueH97/github-readme-stats)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueH97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com//KaiqueH97/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueH97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/KaiqueH97/github-readme-stats)
 
 ---
 
