@@ -1,10 +1,10 @@
 ### Olá! 👋 Eu sou o Kaique Santos
 
-Sou Kaique Santos, tenho 27 anos e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Ferraz. Sou bacharel em Direito e, motivado pela vontade de enfrentar novos desafios, decidi migrar para a área de tecnologia. Essa transição reflete meu interesse em explorar novas oportunidades e aplicar minhas habilidades em um campo em constante evolução.
+Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Ferraz. Sou bacharel em Direito e, motivado pela vontade de enfrentar novos desafios, decidi migrar para a área de tecnologia. Essa transição reflete meu interesse em explorar novas oportunidades e aplicar minhas habilidades em um campo em constante evolução.
 
 ---
 
-### 💻 O que eu estou aprendendo
+### 💻 O que eu estou aprendendo:
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
@@ -20,12 +20,20 @@ Sou Kaique Santos, tenho 27 anos e atualmente curso Análise e Desenvolvimento d
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub:
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueH97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/KaiqueH97/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/KaiqueH97">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueH97&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
-### 📧 Conecte-se Comigo
+### 📧 Conecte-se Comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquehsfs/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/kaiquehsfs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
