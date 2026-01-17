@@ -28,6 +28,6 @@ Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento d
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kaiquehsfs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </div>
