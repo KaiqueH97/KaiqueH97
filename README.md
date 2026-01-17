@@ -14,6 +14,17 @@ Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento d
 
 ---
 
+### 🚀 Projetos em Destaque
+
+#### 🏗️ [Obra Certa](https://github.com/Leofront-end/Obra_certa)
+**Projeto Integrador - Fatec Ferraz**
+
+Sistema desenvolvido em grupo para a disciplina de Projeto Integrador. O objetivo foi criar uma solução para gestão de obras e construções.
+
+[🔗 Acessar repositório do projeto](https://github.com/Leofront-end/Obra_certa)
+
+---
+
 ### 📈 Estatísticas do GitHub:
 
 <div align="center">
