@@ -8,7 +8,7 @@ Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento d
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,py,php,nodejs,mysql,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,py,php,nodejs,mysql,postgres,git,angular,ts&theme=dark" />
   </a>
 </div>
 
@@ -29,7 +29,8 @@ Sistema desenvolvido em grupo para a disciplina de Projeto Integrador. O objetiv
 
 <div align="center">
   <a href="https://github.com/KaiqueH97">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueH97&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueH97&layout=compact&theme=dark&title_color=79d4ff&text_color=ffffff&border_color=454545" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueH97&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
 
