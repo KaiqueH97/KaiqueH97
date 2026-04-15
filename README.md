@@ -16,8 +16,8 @@ Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento d
 
 ### 🚀 Projetos em Destaque
 
-#### 🏗️ [Obra Certa](https://github.com/KaiqueH97/obra-certa-web)
-**Projeto Integrador - Fatec Ferraz**
+#### 🏗️ [Obra Certa](https://obra-certa-web.vercel.app/)
+**Projeto Integrador - Fatec Ferraz de Vasconcelos**
 
 Sistema desenvolvido em grupo para a disciplina de Projeto Integrador. O objetivo foi criar uma solução para gestão de obras e construções.
 
