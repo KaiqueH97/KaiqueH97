@@ -8,7 +8,7 @@ Sou Kaique Santos, tenho 28 anos e atualmente curso Análise e Desenvolvimento d
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,nodejs,mysql,postgres,angular,ts,nextjs,kotlin,tailwind,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,angular,ts,nextjs,kotlin,tailwind,react&theme=dark" />
   </a>
 </div>
 
