@@ -29,7 +29,7 @@ Sistema desenvolvido em grupo para a disciplina de Projeto Integrador. O objetiv
 
 <div align="center">
   <a href="https://github.com/KaiqueH97">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaiqueH97&layout=compact&theme=dark&title_color=79d4ff&text_color=ffffff&border_color=454545" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KaiqueH97&layout=compact&theme=dark&title_color=79d4ff&text_color=ffffff&border_color=454545" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueH97&theme=dark&hide_border=false" alt="GitHub Streak" />
     
   </a>
